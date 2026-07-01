@@ -1,0 +1,12 @@
+{
+  "saved_at": "2026-07-01T12:14:58",
+  "model_file": "model.pkl",
+  "model_name": "logistic_regression",
+  "best_params": {
+    "classifier__C": 5.0
+  },
+  "cv_accuracy": 0.8078,
+  "validation_accuracy": 0.8625,
+  "external_test_accuracy": 0.8625,
+  "training_samples": 800
+}
